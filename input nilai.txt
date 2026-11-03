@@ -1,0 +1,5 @@
+nilai_ipk =int(300")
+pendapatan_ortu = int(input("Rp.3000000"))
+
+dapat_beasiswa = nilai_ipk >= 350 or pendapatan_ortu <= 3000000
+print("Dapat Beasiswa:", dapat_beasiswa)
